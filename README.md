@@ -9,13 +9,13 @@ Material didático organizado para aulas práticas de **Sistema Operacional Wind
 | Aula | Tema |
 |---|---|
 | [Aula 01](Aulas/Aula01.md) | Introdução ao Windows e Área de Trabalho |
-| [Aula 02](Aulas/Aula02/) | Explorador de Arquivos |
-| [Aula 03](Aulas/Aula03/) | OneDrive e Sincronização |
-| [Aula 04](Aulas/Aula04/) | Prompt de Comando (CMD) |
-| [Aula 05](Aulas/Aula05/) | Configurações e Painel de Controle |
-| [Aula 06](Aulas/Aula06/) | Usuários, Segurança e Software |
-| [Aula 07](Aulas/Aula07/) | Manutenção, Diagnóstico e Backup |
-| [Aula 08](Aulas/Aula08/) | Laboratório Integrador e Avaliação |
+| [Aula 02](Aulas/Aula02.md) | Explorador de Arquivos |
+| [Aula 03](Aulas/Aula03.md) | OneDrive e Sincronização |
+| [Aula 04](Aulas/Aula04.md) | Prompt de Comando (CMD) |
+| [Aula 05](Aulas/Aula05.md) | Configurações e Painel de Controle |
+| [Aula 06](Aulas/Aula06.md) | Usuários, Segurança e Software |
+| [Aula 07](Aulas/Aula07.md) | Manutenção, Diagnóstico e Backup |
+| [Aula 08](Aulas/Aula08.md) | Laboratório Integrador e Avaliação |
 
 ## 🎯 Objetivo geral
 
