@@ -1,43 +1,47 @@
-# Curso de Windows — FAETEC
+# Aula 01 — Introdução ao Windows
 
-**Professor Ygor**
+**FAETEC | Professor Ygor**
 
-Material didático organizado para aulas práticas de **Sistema Operacional Windows**.
+## Objetivos
+- Compreender o conceito de Sistema Operacional.
+- Diferenciar hardware e software.
+- Conhecer as principais características do Windows.
+- Identificar os elementos básicos da área de trabalho.
 
-## 📚 Aulas
+## Conteúdo
+### Sistema Operacional
+O sistema operacional funciona como plataforma de gerenciamento dos recursos do computador e fornece serviços aos usuários e programas.
 
-| Aula | Tema |
+### Conceitos importantes
+- **Hardware:** componentes físicos.
+- **Software:** componentes lógicos.
+- **Multitarefa:** execução concorrente de várias atividades.
+- **Multissessão:** diferentes sessões de usuários.
+- **NTFS:** sistema de arquivos associado ao Windows.
+- **Dual boot:** possibilidade de utilizar mais de um sistema operacional na mesma máquina.
+
+## Área de Trabalho
+Conhecer:
+- Menu Iniciar;
+- Barra de Tarefas;
+- Central de Ações;
+- Área de Trabalho;
+- Task View;
+- gerenciamento de janelas.
+
+## Atividade prática
+1. Identifique os principais elementos da área de trabalho.
+2. Abra o Menu Iniciar.
+3. Localize a Barra de Tarefas.
+4. Abra a Visão de Tarefas.
+5. Abra duas aplicações e alterne entre elas.
+
+## Atalhos
+| Atalho | Função |
 |---|---|
-| [Aula 01](Aula1/) | Introdução ao Windows e Área de Trabalho |
-| [Aula 02](Aula2/) | Explorador de Arquivos |
-| [Aula 03](Aula3/) | OneDrive e Sincronização |
-| [Aula 04](Aula4/) | Prompt de Comando (CMD) |
-| [Aula 05](Aula5/) | Configurações e Painel de Controle |
-| [Aula 06](Aula6/) | Usuários, Segurança e Software |
-| [Aula 07](Aula7/) | Manutenção, Diagnóstico e Backup |
-| [Aula 08](Aula8/) | Laboratório Integrador e Avaliação |
+| `Alt + Tab` | Alternar entre janelas |
+| `Win + Tab` | Abrir Task View |
+| `Win + D` | Mostrar/ocultar área de trabalho |
 
-## 🎯 Objetivo geral
-
-Desenvolver conhecimentos teóricos e práticos para utilização, organização, configuração, diagnóstico e manutenção básica de computadores com Windows.
-
-## 🧪 Metodologia
-
-- Explicação do conteúdo;
-- Demonstração pelo professor;
-- Execução prática pelos alunos;
-- Exercícios;
-- Situações-problema;
-- Avaliação prática.
-
-## 📖 Material de referência
-
-A organização das aulas utiliza como base o PDF anexado **Sistema Operacional – Windows 10**, reorganizado em formato didático para as aulas da FAETEC.
-
-> Este repositório apresenta material didático com redação própria e não reproduz integralmente a apostila de referência.
-
-## 👨‍🏫 Professor
-
-**Ygor**
-
-**FAETEC — Informática / Sistemas Operacionais**
+## Referência
+Material-base: PDF *Sistema Operacional – Windows 10*.
