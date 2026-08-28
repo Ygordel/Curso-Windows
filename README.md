@@ -30,12 +30,6 @@ Desenvolver conhecimentos teóricos e práticos para utilização, organização
 - Situações-problema;
 - Avaliação prática.
 
-## 📖 Material de referência
-
-A organização das aulas utiliza como base o PDF anexado **Sistema Operacional – Windows 10**, reorganizado em formato didático para as aulas da FAETEC.
-
-> Este repositório apresenta material didático com redação própria e não reproduz integralmente a apostila de referência.
-
 ## 👨‍🏫 Professor
 
 **Ygor**
