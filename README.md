@@ -8,7 +8,7 @@ Material didático organizado para aulas práticas de **Sistema Operacional Wind
 
 | Aula | Tema |
 |---|---|
-| [Aula 01](Aulas/Aula01/) | Introdução ao Windows e Área de Trabalho |
+| [Aula 01](Aulas/Aula01.md) | Introdução ao Windows e Área de Trabalho |
 | [Aula 02](Aulas/Aula02/) | Explorador de Arquivos |
 | [Aula 03](Aulas/Aula03/) | OneDrive e Sincronização |
 | [Aula 04](Aulas/Aula04/) | Prompt de Comando (CMD) |
